@@ -1,8 +1,9 @@
 <h1> Projet Fil Rouge 2021 events </h1>
-
-<h2>Contexte du projet</h2>
-
 <img src="/Screenshot/fil-rouge.png"/>
+<br>
+<hr>
+<br>
+<h2>Contexte du projet</h2>
 
 Dans le cadre du projet fil rouge chaque apprenant a proposé un cahier des charges pour une idée innovante qui a été validé par sa formatrice.
 
