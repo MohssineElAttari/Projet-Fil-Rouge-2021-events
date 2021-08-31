@@ -1,0 +1,21 @@
+.footer-div {
+  background-color: #203C7E;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 5em;
+  height: 14em;
+  border-top: 1px solid #102f79;
+}
+
+.logo-footer {
+  padding: 2em;
+}
+
+.icons-footer {
+  display: flex;
+  width: 12%;
+  justify-content: space-evenly;
+  font-size: 20px;
+  color: white;
+}
